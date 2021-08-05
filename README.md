@@ -14,7 +14,6 @@
 [<img align="left" alt="Kaves47 | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
 
 [discord]: https://discord.gg/mbeEXvUktp
-[youtube]: https://www.youtube.com/c/MustafaB%C3%BCy%C3%BCkta%C5%9F
 [twitch]: https://www.twitch.tv/kaves47
 
 <br>
