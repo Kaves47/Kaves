@@ -9,10 +9,8 @@
 
 ### Connect with me
 
-[<img align="left" alt="Kaves#0359 | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
 [<img align="left" alt="Kaves47 | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
 
-[discord]: https://discord.gg/mbeEXvUktp
 [twitch]: https://www.twitch.tv/kaves47
 
 <br>
